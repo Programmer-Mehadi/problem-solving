@@ -1,0 +1,12 @@
+/*
+একটা ফাংশন লি খবা যে টা যে ক োন নামকে uppercase বা রে গুলার কে ইস হি সে বে নি বে আর
+আউটপুট হি সে বে সে ই নাম lowercase করে রি টার্ন করবে । 
+
+*/
+
+
+function converter(name) {
+    return name.toLowerCase();
+}
+
+console.log(converter("MEHADI"))
