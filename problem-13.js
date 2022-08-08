@@ -18,6 +18,7 @@ while (j < 10) {
 while ( i < dailyTasks.length){
     if (dailyTasks[i] == 'not understand') {
         console.log('join support session')
+        i++
         continue
     }
     console.log(dailyTasks[i])
