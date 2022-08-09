@@ -1,4 +1,4 @@
-﻿#javascript problem-solving
+﻿<h1 >#javascript problem-solving</h1>
  
 ![](problem%20list/javascript-bannar.png)
 
@@ -11,4 +11,3 @@
 ![](PracticeProblems/Practice%20Problems-07.jpg)
 ![](PracticeProblems/Practice%20Problems-08.jpg)
 ![](PracticeProblems/Practice%20Problems-09.jpg)
-![](PracticeProblems/Practice%20Problems-10.jpg)
